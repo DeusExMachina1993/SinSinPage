@@ -1,14 +1,17 @@
+<!DOCTYPE html>
 <html>
-<body>
-
-<h1>Heading 1</h1>
-<h2>Heading 2</h2>
-<h3>Heading 3</h3>
-<h4>Heading 4</h4>
-<h5>Heading 5</h5>
-<h6>Heading 6</h6>
-
-</body>
+  <head>
+    <meta charset="UTF-8">
+    <title>Service Worker Toolbox</title>
+  </head>
+  <body>
+    <!-- Images -->
+    <img src="/images/contact.svg" height="80" width="80" />
+    <img src="/images/info.svg" height="80" width="80" />
+    <img src="/images/cv.svg" height="80" width="80" />
+    <!-- JavaScript -->
+    <script async src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
+  </body>
 </html>
 ## Welcome to GitHub Pages
 
