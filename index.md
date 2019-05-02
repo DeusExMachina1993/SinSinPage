@@ -6,7 +6,7 @@
   </head>
   <body>
     <!-- Images -->
-    <img src="/images/contact.svg" height="80" width="80" />
+    <img src="logo.png" height="80" width="80" />
     <img src="/images/info.svg" height="80" width="80" />
     <img src="/images/cv.svg" height="80" width="80" />
     <!-- JavaScript -->
